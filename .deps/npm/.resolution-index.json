@@ -1,0 +1,10 @@
+{
+  "DigitalMarket.sol": {
+    "__sources__": {
+      "DigitalMarket.sol": {
+        "content": "// SPDX-License-Identifier: MIT\r\npragma solidity ^0.8.26;\r\n\r\n",
+        "file": "DigitalMarket.sol"
+      }
+    }
+  }
+}
